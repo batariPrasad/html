@@ -1,0 +1,17 @@
+Input tags
+	=> text
+	=> number
+	=> email
+	=> password
+	=> file
+	=> date
+	=> datetime - local
+	=> textarea - for multiline input
+	=> select
+	=> radio
+	=> check
+	=> color
+	=> botton
+		-> submit
+		-> reset
+		-> button
